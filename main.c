@@ -9,3 +9,4 @@ int main(int argc, char *argv[]) {
     printf("Pos %d\t stringa: %s\n",i,argv[i]);
   return 0;
 }
+
