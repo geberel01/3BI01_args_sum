@@ -1,7 +1,7 @@
 //ESERCIZIO:
 //DARE IN INGRESSO STRINGHE NUMERICHE
 //E FARE LA SOMMA DI TUTTE
-
+#include <string.h>
 #include <stdio.h>
 int i, somma = 0;
 int main(int argc, char *argv[]) {
